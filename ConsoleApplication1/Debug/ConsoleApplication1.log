@@ -1,0 +1,20 @@
+﻿  ConsoleApplication1.cpp
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(219,24): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(256,27): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(267,27): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(282,23): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(289,23): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(295,23): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(329,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(335,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(341,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(368,14): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(395,14): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(410,12): warning C4018: <: несоответствие типов со знаком и без знака
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(458,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(513): warning C4715: eval: значение возвращается не при всех путях выполнения
+H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\ConsoleApplication1.cpp(65): warning C4715: Stack::pop: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> H:\визуалка\Класворки\coppy\lab-4a\ConsoleApplication1\Debug\ConsoleApplication1.exe
